@@ -1,0 +1,1 @@
+The files are are the implementation for the Waterjug problem using production rules. I have implemented the code in ruby and i have implemented BFS and DFS to search for the path to the goal.
